@@ -1,0 +1,502 @@
+{
+  "main": {
+    "id": "b203d7e4077b4069",
+    "type": "split",
+    "children": [
+      {
+        "id": "f85aafc4ceb3d152",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b55d5b91b63ad8db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "好题/并查集 + DP ( 01背包 ) - 4.2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "并查集 + DP ( 01背包 ) - 4.2"
+            }
+          },
+          {
+            "id": "b2e9db93571fd7a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ACM/板子/数论-板子+笔记.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "数论-板子+笔记"
+            }
+          },
+          {
+            "id": "92ea238f112e70e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ACM/基础知识/C基础与数据结构基本概念.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "C基础与数据结构基本概念"
+            }
+          },
+          {
+            "id": "47177cefc27e0f60",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ACM/板子/字符串-板子+笔记.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "字符串-板子+笔记"
+            }
+          },
+          {
+            "id": "c8dfddddb6a7caff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ACM/板子/01_Data_Structure_DSU_并查集_板子.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01_Data_Structure_DSU_并查集_板子"
+            }
+          },
+          {
+            "id": "b5b179032987c366",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ACM/板子/01_Data_Structure_DSU_并查集_板子.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01_Data_Structure_DSU_并查集_板子"
+            }
+          },
+          {
+            "id": "964e41f503e59dbd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "大英四/大英四双人讨论课堂展示.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "大英四双人讨论课堂展示"
+            }
+          },
+          {
+            "id": "8bf823decd7043e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "板子/debug-板子.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "debug-板子"
+            }
+          },
+          {
+            "id": "42e91198a3fc10a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "板子/01_Data_Structure_SegTree_线段树_板子.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01_Data_Structure_SegTree_线段树_板子"
+            }
+          },
+          {
+            "id": "9301411757d692a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "板子/DP-USACO 1.1 Broken Necklace(破碎的项链)-环状板子.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DP-USACO 1.1 Broken Necklace(破碎的项链)-环状板子"
+            }
+          },
+          {
+            "id": "da8d7827c70e215f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "板子/数论-板子+笔记.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "数论-板子+笔记"
+            }
+          },
+          {
+            "id": "471dcbec2abaf1b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "板子/00 WIDA-XCPC-v1.8.8-2024.11.19 (1).md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00 WIDA-XCPC-v1.8.8-2024.11.19 (1)"
+            }
+          },
+          {
+            "id": "4387ab915cc7680a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "笔记/STL库-笔记.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "STL库-笔记"
+            }
+          },
+          {
+            "id": "023c175f20aa8f46",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "笔记/00数据结构期中复习.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00数据结构期中复习"
+            }
+          },
+          {
+            "id": "62510022c1a29d66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "板子/树-板子.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "树-板子"
+            }
+          },
+          {
+            "id": "a6a031a486420809",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "板子/并查集-板子.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "并查集-板子"
+            }
+          },
+          {
+            "id": "4ed8c2884ab38784",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "笔记/数论-笔记.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "数论-笔记"
+            }
+          },
+          {
+            "id": "be808d511dc6389a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "笔记/排序问题-笔记.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "排序问题-笔记"
+            }
+          },
+          {
+            "id": "9a64da284299bfcb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "板子/最短路-Dijkstra-板子.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "最短路-Dijkstra-板子"
+            }
+          },
+          {
+            "id": "a01d6569fb25ae3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "板子/最短路-Dijkstra-板子.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "最短路-Dijkstra-板子"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9328383423feb980",
+    "type": "split",
+    "children": [
+      {
+        "id": "a827c0c36d9ea84f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ad4f9d55d06dd42",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "87f6fd73b10647ce",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7605f1c59b27b61b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "3460292f0e0e3267",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa841b3ecb3b2436",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6706f2f63b685eff",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "贪心-优化问题（类似背包问题的变种-2.11.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 贪心-优化问题（类似背包问题的变种-2.11"
+            }
+          },
+          {
+            "id": "c57203b8d98af39c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "贪心-优化问题（类似背包问题的变种-2.11.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 贪心-优化问题（类似背包问题的变种-2.11"
+            }
+          },
+          {
+            "id": "da56ed8458e3d190",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "872e71cb0a9a5207",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "b72d7fe6cc168415",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "贪心-优化问题（类似背包问题的变种-2.11.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 贪心-优化问题（类似背包问题的变种-2.11"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "b5b179032987c366",
+  "lastOpenFiles": [
+    "ACM/板子/01_Data_Structure__Monotonic_Queue__Sliding_Window 单调队列 + 滑动窗口_板子.md",
+    "ACM/板子/01_Data_Structure_BIT_树状数组_板子.md",
+    "最长上升子序列.md",
+    "ACM/板子/01_Data_Structure_DSU_并查集_板子.md",
+    "ACM/板子/02_Graph_Theory_Graph 图-板子.md",
+    "ACM/板子/01_Data_Structure_SegTree_线段树_板子.md",
+    "未命名 2.md",
+    "Pasted image 20260713125354.png",
+    "Pasted image 20260713125307.png",
+    "Pasted image 20260713125236.png",
+    "Pasted image 20260713091158.png",
+    "好玩的.md",
+    "大英四/大英四个人演讲课堂展示.md",
+    "Pasted image 20260707125926.png",
+    "Pasted image 20260707113129.png",
+    "ACM/板子/字符串-板子+笔记.md",
+    "ACM/板子/最长三段连续子序列和（不要求上升）-板子.md",
+    "ACM/基础知识/C基础与数据结构基本概念.md",
+    "未命名.md",
+    "大英四/大英四双人讨论课堂展示.md",
+    "00贪心-哈夫曼树（”合并果子“进阶版）-2.11.md",
+    "目录.base",
+    "未命名.base",
+    "未命名 1.md",
+    "未命名",
+    "ACM",
+    "大英四",
+    "ACM/板子/数论-板子+笔记.md",
+    "ACM/好题/并查集-应用-4.2.md",
+    "ACM/好题/并查集-模板题.md",
+    "ACM/好题/并查集 + DP ( 01背包 ) - 4.2.md",
+    "ACM/笔记/00数据结构期中复习.md",
+    "ACM/板子/00 WIDA-XCPC-v1.8.8-2024.11.19 (1).md",
+    "ACM/板子/00 WIDA-XCPC-v1.8.8-2024.11.19.md",
+    "ACM/板子/debug-板子.md",
+    "debug - 板.md",
+    "ACM/笔记/排序问题-笔记.md",
+    "Pasted image 20260508095744.png",
+    "板子/最长三段连续子序列和（不要求上升）-板子.pdf",
+    "板子/字符串-板子+笔记.pdf",
+    "板子/数论-板子+笔记.pdf",
+    "板子/DP-USACO 1.1 Broken Necklace(破碎的项链)-环状板子.pdf",
+    "板子/debug-板子.pdf",
+    "Pasted image 20260317162853.png",
+    "Pasted image 20260317152839.png",
+    "Pasted image 20260211111231.png"
+  ]
+}
