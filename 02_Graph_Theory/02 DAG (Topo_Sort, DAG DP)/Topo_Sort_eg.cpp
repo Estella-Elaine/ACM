@@ -7,22 +7,7 @@
 using namespace std;
 using ll = long long;
 
-template<class A> string to_string(const A& v) {
-	string s = "{";
-	for (const auto& x : v) s += (sz(s) > 1 ? ", " : "") + to_string(x);
-	return s += "}";
-}
-
-void debug_out() { cerr << '\n'; }
-template<class U, class... T> void debug_out(const U& x, const T&... args) {
-	cerr << ' ' << to_string(x);
-	debug_out(args...); 
-}
-
-#define sc(x) cerr << "\033[" << x << "m"
-#define debug(...) sc(96), cerr << "[" << #__VA_ARGS__ << "]:", debug_out(__VA_ARGS__), sc(39)
-
-void solve(const int& ic) {
+void work() {
 	int n, m;
 	cin >> n >> m;
 	vector<tuple<int, int, int>> a(m);
@@ -68,9 +53,11 @@ void solve(const int& ic) {
 	cout << '\n';
 }
 
-int main() {
-	cin.tie(nullptr)->sync_with_stdio(false);
-	int tt = 1;
-	cin >> tt;
-	folr(ic, 0, tt - 1) solve(ic);
+signed main(){
+	ios::sync_with_stdio(false);
+	cin.tie(nullptr);
+	int T = 1;
+	cin >> T;
+	while(T--) work();
+	return 0;
 }
