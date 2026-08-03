@@ -1,0 +1,7 @@
+每次在github上面更新文件，先 win+R ，打开运行框，输入cmd，然后输入这一套指令即可
+
+cd /d "D:\00 University Study\00 C++\000 CP_Workspace"
+git status
+git add .
+git commit -m "更新CP_Workspace文件"
+git push

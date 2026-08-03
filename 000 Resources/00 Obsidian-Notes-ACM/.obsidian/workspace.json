@@ -78,31 +78,13 @@
             }
           },
           {
-            "id": "b5b179032987c366",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ACM/板子/01_Data_Structure_DSU_并查集_板子.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "01_Data_Structure_DSU_并查集_板子"
-            }
-          },
-          {
             "id": "964e41f503e59dbd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "大英四/大英四双人讨论课堂展示.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "大英四双人讨论课堂展示"
+              "title": "新标签页"
             }
           },
           {
@@ -308,7 +290,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -450,12 +434,58 @@
       "bases:新建数据库": false
     }
   },
+  "floating": {
+    "id": "cb8e9aebd393d09c",
+    "type": "floating",
+    "children": [
+      {
+        "id": "62ee3bf89e421e1c",
+        "type": "window",
+        "children": [
+          {
+            "id": "46c125f7341004b0",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "b5b179032987c366",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "ACM/板子/00 WIDA-XCPC-v1.8.8-2024.11.19 (1).md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "00 WIDA-XCPC-v1.8.8-2024.11.19 (1)"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 0,
+        "width": 1024,
+        "height": 1104,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "b5b179032987c366",
   "lastOpenFiles": [
+    "ACM/板子/00 WIDA-XCPC-v1.8.8-2024.11.19.md",
+    "ACM/板子/00 WIDA-XCPC-v1.8.8-2024.11.19 (1).md",
+    "ACM/板子/数论-板子+笔记.md",
+    "ACM/板子/位运算.md",
+    "ACM/板子/01_Data_Structure_DSU_并查集_板子.md",
+    "ACM/笔记/STL库-笔记_2.md",
+    "ACM/板子/STL库-笔记_2.md",
+    "ACM/板子/00 线段树.md",
     "ACM/板子/01_Data_Structure__Monotonic_Queue__Sliding_Window 单调队列 + 滑动窗口_板子.md",
     "ACM/板子/01_Data_Structure_BIT_树状数组_板子.md",
     "最长上升子序列.md",
-    "ACM/板子/01_Data_Structure_DSU_并查集_板子.md",
     "ACM/板子/02_Graph_Theory_Graph 图-板子.md",
     "ACM/板子/01_Data_Structure_SegTree_线段树_板子.md",
     "未命名 2.md",
@@ -479,16 +509,9 @@
     "未命名",
     "ACM",
     "大英四",
-    "ACM/板子/数论-板子+笔记.md",
     "ACM/好题/并查集-应用-4.2.md",
     "ACM/好题/并查集-模板题.md",
     "ACM/好题/并查集 + DP ( 01背包 ) - 4.2.md",
-    "ACM/笔记/00数据结构期中复习.md",
-    "ACM/板子/00 WIDA-XCPC-v1.8.8-2024.11.19 (1).md",
-    "ACM/板子/00 WIDA-XCPC-v1.8.8-2024.11.19.md",
-    "ACM/板子/debug-板子.md",
-    "debug - 板.md",
-    "ACM/笔记/排序问题-笔记.md",
     "Pasted image 20260508095744.png",
     "板子/最长三段连续子序列和（不要求上升）-板子.pdf",
     "板子/字符串-板子+笔记.pdf",
