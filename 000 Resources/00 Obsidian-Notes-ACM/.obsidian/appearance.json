@@ -4,5 +4,8 @@
   "accentColor": "#b921e4",
   "interfaceFontFamily": "华文楷体",
   "textFontFamily": "华文楷体",
-  "monospaceFontFamily": ""
+  "monospaceFontFamily": "",
+  "enabledCssSnippets": [
+    "pdf-code-wrap"
+  ]
 }
