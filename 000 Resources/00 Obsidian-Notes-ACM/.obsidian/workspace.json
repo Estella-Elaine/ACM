@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ACM/板子/02_Graph_Theory_Tree 树-板子.md",
+                "file": "ACM/板子/数论-板子+笔记.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02_Graph_Theory_Tree 树-板子"
+              "title": "数论-板子+笔记"
             }
           },
           {
@@ -470,8 +470,8 @@
   },
   "active": "8bf823decd7043e4",
   "lastOpenFiles": [
-    "ACM/板子/00 WIDA-XCPC-v1.8.8-2024.11.19 (1).md",
     "ACM/板子/02_Graph_Theory_Tree 树-板子.md",
+    "ACM/板子/00 WIDA-XCPC-v1.8.8-2024.11.19 (1).md",
     "ACM/板子/01_Data_Structure_BIT_树状数组_板子.md",
     "00 XCPC 板子.md",
     "ACM/板子/00 树状数组.md",

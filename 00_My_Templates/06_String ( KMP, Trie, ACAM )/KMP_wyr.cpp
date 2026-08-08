@@ -31,7 +31,6 @@ vector<int> kmpMatch(const string& s, const string& p){
 			j = nxt[j - 1]; // 继续匹配，支持重叠
 		}
 	}
-
 	return pos;
 }
 
